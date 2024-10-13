@@ -25,5 +25,5 @@ Warm Regards,<br>
 Nithyasri Srivathsan<br>
 Founder, SheQuantum
 
-<p align=center>![image](https://github.com/user-attachments/assets/2db85bd0-94a1-4546-95cd-8406fbc7a69e)</p>
+<p align=center><img src="https://github.com/user-attachments/assets/2db85bd0-94a1-4546-95cd-8406fbc7a69e"></p>
 
