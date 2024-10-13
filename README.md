@@ -5,12 +5,12 @@ The Quantum Software Engineering Standardization Council (QSESC), established by
 
 Council Members: We sincerely thank our QSESC experts for their valuable contributions, inputs, feedback, and review
 
-Elías Fernández-Combarro Álvarez (University of Oviedo, CERN), Spain 
-Zeynep Koruturk (Goldman Sachs), United Kingdom
-Jennifer E. Decker (National Research Council Canada) Germany
-Aida Todri-Sanial (Eindhoven University of Technology, CNRS), Netherlands
-Shaukat Ali (Simula Research Laboratory) Norway
-Eduardo Henrique Matos Maschio (Pasqal) Netherlands.
+* Elías Fernández-Combarro Álvarez (University of Oviedo, CERN), Spain
+* Zeynep Koruturk (Goldman Sachs), United Kingdom
+* Jennifer E. Decker (National Research Council Canada) Germany
+* Aida Todri-Sanial (Eindhoven University of Technology, CNRS), Netherlands
+* Shaukat Ali (Simula Research Laboratory) Norway
+* Eduardo Henrique Matos Maschio (Pasqal) Netherlands
 
 Objective: The council's first goal is to soon publish a comprehensive whitepaper document on “Universalization of Quantum Software Engineering” emphasizing the criticality of standardization in this field. This document will be disseminated for the global quantum community through SheQuantum and further will be shared with key standards organizations including National Institute of Standards and Technology (NIST), ISO - International Organization for Standardization, and IEEE.
 
@@ -21,9 +21,9 @@ We welcome C&C (comments and critqiues), which is the key reason for us to choos
 How to contribute: 
 Feel free to drop your comments or create a pull request with your additions. Alternatively, we are happy to hear from you @ contactsheq@gmail.com
 
-Warm Regards,
-Nithyasri Srivathsan
+Warm Regards,<br>
+Nithyasri Srivathsan<br>
 Founder, SheQuantum
 
-![image](https://github.com/user-attachments/assets/2db85bd0-94a1-4546-95cd-8406fbc7a69e)
+<p align=center>![image](https://github.com/user-attachments/assets/2db85bd0-94a1-4546-95cd-8406fbc7a69e)</p>
 
