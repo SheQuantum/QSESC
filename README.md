@@ -19,7 +19,7 @@ We're more than proud to pioneer this important revolution with esteemed quantum
 We welcome C&C (comments and critqiues), which is the key reason for us to choose GitHub, an open source platform to welcome all your suggestions, thoughts, and feedback. This document has been published under the Creative Commons License 2024.
 
 How to contribute: 
-Feel free to drop your comments or create a pull request with your additions. Alternatively, we are happy to hear from you @ contactsheq@gmail.com
+Feel free to drop your comments under the discussions section. Alternatively, we are happy to hear from you @ contactsheq@gmail.com
 
 This work Universalization of Quantum Software Engineering © 2024 by SheQuantum is licensed under CC BY-SA 4.0.
 
