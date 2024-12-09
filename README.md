@@ -7,8 +7,8 @@ Council Members: We sincerely thank our QSESC experts for their valuable contrib
 
 * Elías Fernández-Combarro Álvarez (University of Oviedo, CERN), Spain
 * Zeynep Koruturk (Goldman Sachs), United Kingdom
-* Eduardo Henrique Matos Maschio (Pasqal) Netherlands
-* Jennifer E. Decker (National Research Council Canada) Germany
+* Eduardo Henrique Matos Maschio (Pasqal), Netherlands
+* Jennifer E. Decker (National Research Council Canada), Germany
 * Aida Todri-Sanial (Eindhoven University of Technology, CNRS), Netherlands
 
 Thanks for insights from Shaukat Ali (Simula Research Laboratory) Norway.
