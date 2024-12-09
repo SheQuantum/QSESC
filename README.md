@@ -7,10 +7,11 @@ Council Members: We sincerely thank our QSESC experts for their valuable contrib
 
 * Elías Fernández-Combarro Álvarez (University of Oviedo, CERN), Spain
 * Zeynep Koruturk (Goldman Sachs), United Kingdom
+* Eduardo Henrique Matos Maschio (Pasqal) Netherlands
 * Jennifer E. Decker (National Research Council Canada) Germany
 * Aida Todri-Sanial (Eindhoven University of Technology, CNRS), Netherlands
-* Shaukat Ali (Simula Research Laboratory) Norway
-* Eduardo Henrique Matos Maschio (Pasqal) Netherlands
+
+Thanks for insights from Shaukat Ali (Simula Research Laboratory) Norway.
 
 Objective: The council's first goal is to soon publish a comprehensive whitepaper document on “Universalization of Quantum Software Engineering” emphasizing the criticality of standardization in this field. This document will be disseminated for the global quantum community through SheQuantum and further will be shared with key standards organizations including National Institute of Standards and Technology (NIST), ISO - International Organization for Standardization, and IEEE.
 
